@@ -1,2 +1,2 @@
-# RickAndMortyAPI
-Vue Rick and Morty API
+# RickYMortyAPI
+Vue-RickYMorty API
